@@ -10,7 +10,5 @@ import lombok.Setter;
 @Setter
 
 public class Pessoa {
-	private idPessoa int primary key,
-	private nome varchar (40),
-	private endereco varchar(50)
+
 }
